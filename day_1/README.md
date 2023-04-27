@@ -1,8 +1,11 @@
 # Proyecto 1
 Se agrega el archivo del **primer proyecto** de **100 days of python**
+
 ## Band Name Generator
+
 Ingresas el nombre de la ciudad en la que creciste
-> What's name of the city you grew up in?\
+
+> What's name of the city you grew up in?
 
 Después el nombre de tu mascota
 
