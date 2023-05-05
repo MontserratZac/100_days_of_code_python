@@ -1,4 +1,4 @@
-# Proyecto 1
+# Proyecto 2
 Se agrega el archivo del **Proyecto 2** de **100 days of python**
 
 ## Tip Calculator
