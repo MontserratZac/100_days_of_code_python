@@ -15,4 +15,4 @@ Este proyecto es el juego de piedra, papel o tijera. El usuario ingresa un núme
 
 > You win!
 
-![Imagen de la consola al ejecutar el programa](/images/rock_paper_scissors.PNG)
+![Imagen de la consola al ejecutar el programa](/day_4/images/rock_paper_scissors.PNG)
