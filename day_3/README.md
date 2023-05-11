@@ -7,8 +7,8 @@ Este proyecto consta de un cuento que vas escribiendo de acuerdo a las decisione
 
 > Welcome to the Treasure Island. Your mission is to find the treasure.
 
-![Imagen de la consola al ejecutar el programa](day_3/images/treasure_island.JPG)
+![Imagen de la consola al ejecutar el programa](/day_3/images/treasure_island.JPG)
 
 Al final de cada historia puedes saber el desenlace de tu cuento.
 
-![Imagen de la consola al ejecutar el programa](day_3/images/final.JPG)
+![Imagen de la consola al ejecutar el programa](/day_3/images/final.JPG)
