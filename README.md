@@ -17,6 +17,6 @@ Proyectos creados en el Bootcamp del curso de programación con python, 100 days
 >*For loops, range and code blocks.*
 
 6. Escaping the Maze (Karel the Robot)
-*Functions, code blocks and while loops.*
+> *Functions, code blocks and while loops.*
 
 
