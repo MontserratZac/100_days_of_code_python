@@ -12,3 +12,9 @@ Este proyecto consta de un cuento que vas escribiendo de acuerdo a las decisione
 Al final de cada historia puedes saber el desenlace de tu cuento.
 
 ![Imagen de la consola al ejecutar el programa](/day_3/images/final.JPG)
+
+## Temas:
+1. Conditional Statements
+2. Logical Operator
+3. Code Blocks
+4. Scope

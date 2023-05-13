@@ -16,3 +16,6 @@ Este proyecto es el juego de piedra, papel o tijera. El usuario ingresa un núme
 > You win!
 
 ![Imagen de la consola al ejecutar el programa](/day_4/images/rock_paper_scissors.PNG)
+
+## Temas:
+1. Randomisation and Python Lists

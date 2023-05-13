@@ -16,7 +16,9 @@ Proyectos creados en el Bootcamp del curso de programación con python, 100 days
 5. PyPassword Generator
 >*For loops, range and code blocks.*
 
-6. Escaping the Maze (Karel the Robot)
+6. Escaping the Maze (Reeborg's World)
 > *Functions, code blocks and while loops.*
 
+7. Hangman
+> *For and while loops, if/else, list, strings, range, modules.*
 

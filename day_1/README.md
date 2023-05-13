@@ -14,3 +14,10 @@ Después el nombre de tu mascota
 Y te regresa un nombre de banda con las dos entradas combinadas
 
 > Your band name could be city_name + pet_name
+
+## Temas:
+1. Printing
+2. Commenting
+3. Debbugging
+4. String Manipulation
+5. Variables

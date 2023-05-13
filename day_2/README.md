@@ -17,3 +17,10 @@ Y por último indicas entre cuántas personas se dividirá la cuenta
 El programa te indica la cantidad a pagar por persona, con un número flotante con dos decimales.
 
 > Each person should pay: $33.60
+
+## Temas:
+1. Data types
+2. Numbers
+3. Operation
+4. Type Conversion
+5. f-Strings

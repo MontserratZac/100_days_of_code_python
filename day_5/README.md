@@ -12,3 +12,8 @@ Este proyecto crea una contraseña con el número de letras, simbolos y números
 > How many numbers would you like?
 
 ![Imagen de la consola al ejecutar el programa](/day_5/images/pypassword_generator.JPG)
+
+## Temas:
+1. For Loop
+2. Range
+6. Code Blocks
