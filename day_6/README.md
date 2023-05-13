@@ -1,7 +1,7 @@
 # Proyecto 6
 Se agrega el archivo del **Proyecto 6** de **100 days of python**
 
-## PyPassword Generator
+## Escaping the Maze
 
 En este proyecto se trabaja en **Reeborg's World**, en el problema Maze. Se trata de darle instrucciones al robot para que pueda llegar a la meta utilizando ciertas funciones predeterminadas o creando funciones propias.
 
