@@ -22,3 +22,11 @@ Proyectos creados en el Bootcamp del curso de programación con python, 100 days
 7. Hangman
 > *For and while loops, if/else, list, strings, range, modules.*
 
+8. Caesar Cipher
+> *Functions with inputs, arguments and parameters*
+
+9. Blind Auction
+> *Dictionaries, nesting*
+
+10. Calculator App
+> *Functions with outputs*
