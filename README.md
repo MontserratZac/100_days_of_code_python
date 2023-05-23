@@ -30,3 +30,6 @@ Proyectos creados en el Bootcamp del curso de programación con python, 100 days
 
 10. Calculator App
 > *Functions with outputs*
+
+11. Blackjack / 21
+> *Functions with inputs, functions with outputs, lists, sum(), remove(), append() fnctions*
