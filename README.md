@@ -32,4 +32,7 @@ Proyectos creados en el Bootcamp del curso de programación con python, 100 days
 > *Functions with outputs*
 
 11. Blackjack / 21
-> *Functions with inputs, functions with outputs, lists, sum(), remove(), append() fnctions*
+> *Functions with inputs, functions with outputs, lists, sum(), remove(), append() functions*
+
+12. Guess the Number
+> *Functions with inputs, functions with outputs, scope, local and global variables*
