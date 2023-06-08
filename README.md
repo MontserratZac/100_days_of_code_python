@@ -36,3 +36,8 @@ Proyectos creados en el Bootcamp del curso de programación con python, 100 days
 
 12. Guess the Number
 > *Functions with inputs, functions with outputs, scope, local and global variables*
+
+13. Debugging
+> *Debugging exercises*
+
+14. Higher or Lower
