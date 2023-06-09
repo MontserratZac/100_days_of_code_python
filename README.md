@@ -41,3 +41,7 @@ Proyectos creados en el Bootcamp del curso de programación con python, 100 days
 > *Debugging exercises*
 
 14. Higher or Lower
+> *Functions with inputs, functions with outputs*
+
+15. Coffee Machine
+> *Setup Local Development Environment*
