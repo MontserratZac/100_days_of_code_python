@@ -11,7 +11,7 @@ Este proyecto es el juego de **Guess the number**. El cuál tienes que adivinar 
 
 ![Imagen de la consola al ejecutar el programa](/day_12/images/guess_the_number2.JPG)
 
-![Imagen de la consola al ejecutar el programa](/day_11/images/guess_the_number.JPG)
+![Imagen de la consola al ejecutar el programa](/day_12/images/guess_the_number.JPG)
 
 ## Temas:
 1. Functions with Inputs
